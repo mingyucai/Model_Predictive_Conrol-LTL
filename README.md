@@ -5,6 +5,11 @@ environment (as the finite transition system) and a potential infeasible Linear 
 logic formula (as the robot’s task). It outputs the predicted trajectories at each
 time-step that optimize the reward-related objectives and finally fulfill the task maximumly.
 
+The project applies a standard model predictive control based on the P_MAS_TG implementation provided at [P_MAS_TG](https://mengguo.github.io/personal_site/P_MAS_TG.html) and [RHTLC](http://sites.bu.edu/hyness/rhtlc/).
+The reference of P_MAS_TG and RHTLC implementation:
+* Guo, Meng, and Dimos V. Dimarogonas, "Multi-agent plan reconfiguration under local LTL specifications", The International Journal of Robotics Research 34.2 (2015). [[PDF]](https://journals.sagepub.com/doi/full/10.1177/0278364914546174?casa_token=OSKkS6Vqz-gAAAAA%3A5E1-CDKymr6gHfepShhnvEP-Jnmw8afGzfxwV_wL4s69r_0uxAoh-hJNpGgwt0jj5Fa00NX2vJvd3A)
+* Ding, Xuchu, Mircea Lazar, and Calin Belta, "LTL receding horizon control for finite deterministic systems", Automatica 50.2 (2014). [[PDF]](https://www.sciencedirect.com/science/article/pii/S0005109813005475?casa_token=bF8jKGWx-oMAAAAA:v_QZJMRZVz6y04OQtbP0tA6LujTguHcyYrVa9ISHTR55BmNcQ91MspkD2QIvq7yM-Xj3kpilaSw)
+
 [Project Webpage](https://github.com/mingyucai/Model_Predictive_Conrol-LTL)
 
 ## Results
