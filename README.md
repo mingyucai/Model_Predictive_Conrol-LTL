@@ -15,13 +15,13 @@ The reference of P_MAS_TG and RHTLC implementation:
 ## Results
 1. In the simlulations, the graph-like environments are tested. 
 
-Demo: [Simulation Vidoe](https://www.youtube.com/watch?v=RyRnKXDDH5U)
+   Demo: [Simulation Vidoe](https://www.youtube.com/watch?v=RyRnKXDDH5U)
 ![grid.png](grid.png)
 
 2. In the experiment, the neighbor numbers of simulation snapshot provide the time-varying reward 
 (Here we use the random values) which is our optimization objective.
 
-Demo: [Experiment video](https://www.youtube.com/watch?v=16j6TmVUrTk)
+   Demo: [Experiment video](https://www.youtube.com/watch?v=16j6TmVUrTk)
 ![experiment.jpg](experiment.jpg)
 
 ## Publication
